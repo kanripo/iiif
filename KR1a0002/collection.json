@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "manifests": [
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/000/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 000"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/001/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 001"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/002/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 002"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/003/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 003"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/004/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 004"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/005/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 005"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/006/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 006"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/007/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 007"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 008"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/009/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 009"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/010/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 010"
+    }, 
+    {
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/011/manifest.json", 
+      "@type": "sc:Manifest", 
+      "label": "\u5dfb 011"
+    }
+  ], 
+  "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/collection.json", 
+  "@type": "sc:Collection", 
+  "label": "KR1a0002"
+}

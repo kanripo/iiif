@@ -1,1 +1,1293 @@
-{"attribution": [{"@value": "Kanseki Repository", "@language": "en"}, {"@value": "\u6f22\u7c4d\u30ea\u30dd\u30b8\u30c8\u30ea", "@language": "ja"}], "description": "KR1a0002 ", "viewingDirection": "right-to-left", "sequences": [{"canvases": [{"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a"}], "label": "WYG 008-1a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b"}], "label": "WYG 008-1b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a"}], "label": "WYG 008-2a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b"}], "label": "WYG 008-2b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a"}], "label": "WYG 008-3a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b"}], "label": "WYG 008-3b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a"}], "label": "WYG 008-4a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b"}], "label": "WYG 008-4b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a"}], "label": "WYG 008-5a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b"}], "label": "WYG 008-5b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a"}], "label": "WYG 008-6a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b"}], "label": "WYG 008-6b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a"}], "label": "WYG 008-7a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b"}], "label": "WYG 008-7b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a"}], "label": "WYG 008-8a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b"}], "label": "WYG 008-8b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a"}], "label": "WYG 008-9a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b"}], "label": "WYG 008-9b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a"}], "label": "WYG 008-10a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b"}], "label": "WYG 008-10b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a"}], "label": "WYG 008-11a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b"}], "label": "WYG 008-11b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a"}], "label": "WYG 008-12a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b"}], "label": "WYG 008-12b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a"}], "label": "WYG 008-13a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b"}], "label": "WYG 008-13b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a"}], "label": "WYG 008-14a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b"}], "label": "WYG 008-14b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a"}], "label": "WYG 008-15a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b"}], "label": "WYG 008-15b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a"}], "label": "WYG 008-16a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b"}], "label": "WYG 008-16b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a"}], "label": "WYG 008-17a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b"}], "label": "WYG 008-17b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a"}], "label": "WYG 008-18a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b"}], "label": "WYG 008-18b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a"}], "label": "WYG 008-19a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b"}], "label": "WYG 008-19b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a"}], "label": "WYG 008-20a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b"}], "label": "WYG 008-20b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a"}], "label": "WYG 008-21a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b"}], "label": "WYG 008-21b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115a.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115a.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a"}], "label": "WYG 008-22a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115b.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115b.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b"}], "label": "WYG 008-22b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115c.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115c.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a"}], "label": "WYG 008-23a", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a", "@type": "sc:Canvas"}, {"height": 1000, "width": 1000, "images": [{"resource": {"service": {"profile": "http://iiif.io/api/image/2/level1.json", "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115d.png"}, "format": "image/jpeg", "height": 1000, "width": 1000, "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115d.png/full/full/0/default.jpg", "@type": "dctypes:Image"}, "motivation": "sc:painting", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b/ano0001", "@type": "oa:Annotation", "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b"}], "label": "WYG 008-23b", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b", "@type": "sc:Canvas"}], "viewingHint": "paged", "viewingDirection": "right-to-left", "label": "Current Page Order", "@context": "http://iiif.io/api/presentation/2/context.json", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/sequence/normal", "@type": "sc:Sequence"}], "logo": "http://kanripo.org/static/img/kanripo-64.png", "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/manifest.json", "viewingHint": "paged", "license": "http://creativecommons.org/licenses/by-sa/4.0/", "label": "\u5dfb 008", "@context": "http://iiif.io/api/presentation/2/context.json", "@type": "sc:Manifest", "metadata": [{"value": "", "label": "Responsible"}, {"value": "", "label": "Title"}, {"value": "", "label": "Source"}, {"value": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/manifest.json", "label": "manifest URI"}]}
+{
+  "attribution": [
+    {
+      "@value": "Kanseki Repository", 
+      "@language": "en"
+    }, 
+    {
+      "@value": "\u6f22\u7c4d\u30ea\u30dd\u30b8\u30c8\u30ea", 
+      "@language": "ja"
+    }
+  ], 
+  "description": "KR1a0002 ", 
+  "viewingDirection": "right-to-left", 
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a"
+            }
+          ], 
+          "label": "WYG 008-1a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0104b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b"
+            }
+          ], 
+          "label": "WYG 008-1b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-1b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a"
+            }
+          ], 
+          "label": "WYG 008-2a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b"
+            }
+          ], 
+          "label": "WYG 008-2b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-2b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a"
+            }
+          ], 
+          "label": "WYG 008-3a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0105d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b"
+            }
+          ], 
+          "label": "WYG 008-3b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-3b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a"
+            }
+          ], 
+          "label": "WYG 008-4a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b"
+            }
+          ], 
+          "label": "WYG 008-4b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-4b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a"
+            }
+          ], 
+          "label": "WYG 008-5a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0106d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b"
+            }
+          ], 
+          "label": "WYG 008-5b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-5b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a"
+            }
+          ], 
+          "label": "WYG 008-6a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b"
+            }
+          ], 
+          "label": "WYG 008-6b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-6b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a"
+            }
+          ], 
+          "label": "WYG 008-7a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0107d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b"
+            }
+          ], 
+          "label": "WYG 008-7b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-7b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a"
+            }
+          ], 
+          "label": "WYG 008-8a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b"
+            }
+          ], 
+          "label": "WYG 008-8b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-8b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a"
+            }
+          ], 
+          "label": "WYG 008-9a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0108d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b"
+            }
+          ], 
+          "label": "WYG 008-9b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-9b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a"
+            }
+          ], 
+          "label": "WYG 008-10a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b"
+            }
+          ], 
+          "label": "WYG 008-10b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-10b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a"
+            }
+          ], 
+          "label": "WYG 008-11a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0109d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b"
+            }
+          ], 
+          "label": "WYG 008-11b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-11b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a"
+            }
+          ], 
+          "label": "WYG 008-12a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b"
+            }
+          ], 
+          "label": "WYG 008-12b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-12b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a"
+            }
+          ], 
+          "label": "WYG 008-13a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0110d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b"
+            }
+          ], 
+          "label": "WYG 008-13b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-13b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a"
+            }
+          ], 
+          "label": "WYG 008-14a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b"
+            }
+          ], 
+          "label": "WYG 008-14b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-14b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a"
+            }
+          ], 
+          "label": "WYG 008-15a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0111d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b"
+            }
+          ], 
+          "label": "WYG 008-15b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-15b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a"
+            }
+          ], 
+          "label": "WYG 008-16a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b"
+            }
+          ], 
+          "label": "WYG 008-16b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-16b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a"
+            }
+          ], 
+          "label": "WYG 008-17a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0112d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b"
+            }
+          ], 
+          "label": "WYG 008-17b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-17b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a"
+            }
+          ], 
+          "label": "WYG 008-18a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b"
+            }
+          ], 
+          "label": "WYG 008-18b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-18b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a"
+            }
+          ], 
+          "label": "WYG 008-19a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0113d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b"
+            }
+          ], 
+          "label": "WYG 008-19b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-19b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a"
+            }
+          ], 
+          "label": "WYG 008-20a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b"
+            }
+          ], 
+          "label": "WYG 008-20b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-20b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a"
+            }
+          ], 
+          "label": "WYG 008-21a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0114d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b"
+            }
+          ], 
+          "label": "WYG 008-21b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-21b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115a.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115a.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a"
+            }
+          ], 
+          "label": "WYG 008-22a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115b.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115b.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b"
+            }
+          ], 
+          "label": "WYG 008-22b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-22b", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115c.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115c.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a"
+            }
+          ], 
+          "label": "WYG 008-23a", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23a", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "height": 1000, 
+          "width": 1000, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115d.png"
+                }, 
+                "format": "image/jpeg", 
+                "height": 1000, 
+                "width": 1000, 
+                "@id": "https://tls.kanripo.org/loris/general/skqs/wyg/WYG0007/WYG0007-0115d.png/full/full/0/default.jpg", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b/ano0001", 
+              "@type": "oa:Annotation", 
+              "on": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b"
+            }
+          ], 
+          "label": "WYG 008-23b", 
+          "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/WYG-008-23b", 
+          "@type": "sc:Canvas"
+        }
+      ], 
+      "viewingHint": "paged", 
+      "viewingDirection": "right-to-left", 
+      "label": "Current Page Order", 
+      "@context": "http://iiif.io/api/presentation/2/context.json", 
+      "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/sequence/normal", 
+      "@type": "sc:Sequence"
+    }
+  ], 
+  "logo": "http://kanripo.org/static/img/kanripo-64.png", 
+  "@id": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/manifest.json", 
+  "viewingHint": "paged", 
+  "license": "http://creativecommons.org/licenses/by-sa/4.0/", 
+  "label": "\u5dfb 008", 
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@type": "sc:Manifest", 
+  "metadata": [
+    {
+      "value": "", 
+      "label": "Responsible"
+    }, 
+    {
+      "value": "", 
+      "label": "Title"
+    }, 
+    {
+      "value": "", 
+      "label": "Source"
+    }, 
+    {
+      "value": "https://raw.githubusercontent.com/kanripo/iiif/master/KR1a0002/008/manifest.json", 
+      "label": "manifest URI"
+    }
+  ]
+}
